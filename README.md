@@ -1,4 +1,4 @@
-# Hacker Swiss Army Knife v3.0 🛠️
+# Hacker Tools v3.0 🛠️
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
